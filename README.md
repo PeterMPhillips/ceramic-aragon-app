@@ -9,6 +9,8 @@ Buidler + React boilerplate for Aragon applications.
 
 ## Running your app
 
+Install by running `cd app && npm i` then `cd .. && npm i`
+
 To run the app in a browser with frontend and contract hot-reloading, simply run `npm start`.
 
 1. Add code quality tools, like JS and contract linting. You may also want to check existing [buidler plugins](https://buidler.dev/plugins/).
